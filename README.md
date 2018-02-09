@@ -1,2 +1,3 @@
 # hello-world
-First rpository
+First rpositor
+This will be my first commit on GitHub
